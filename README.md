@@ -36,12 +36,8 @@ Welcome to the **Student Record Management System**, a beginner-to-intermediate 
 
 ---
 
-## 📸 Screenshots
+<img width="1182" height="887" alt="image" src="https://github.com/user-attachments/assets/dc85fa4c-00e6-413e-8c71-a5033f6457c6" />
 
-![console-menu](https://dummyimage.com/700x180/000/fff&text=Console+Menu+Screenshot)  
-> _Add your actual screenshots here_
-
----
 
 ## 📂 Project Structure
 
